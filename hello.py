@@ -3,4 +3,4 @@ def checking_value(value: str):
         print("Hi")
     else:
         print("Shivani")
-        pass
+        print("Test")
